@@ -46,6 +46,6 @@ android {
 dependencies {
     compileOnly "androidx.annotation:annotation:1.6.0"
 
-    api "com.google.android.gms:play-services-location:21.2.0"
+    api "com.google.android.gms:play-services-location:21.0.1" // api "com.google.android.gms:play-services-location:21.2.0"
     implementation "androidx.core:core-ktx:1.10.1"
 }
